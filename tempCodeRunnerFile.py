@@ -1,0 +1,1 @@
+octants = [[] for _ in range(8)]
